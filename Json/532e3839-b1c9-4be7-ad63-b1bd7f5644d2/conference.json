@@ -8,5 +8,7 @@
   "country": "Singapore",
   "latitude": 1.289919,
   "longitude": 103.853063,
-  "startdate": "10/11/2018"
+  "startdate": "10/11/2018",
+  "website" : "https://www.meetup.com/SingaporeMobileDev",
+  "tickets" : "https://www.meetup.com/SingaporeMobileDev"
 }
